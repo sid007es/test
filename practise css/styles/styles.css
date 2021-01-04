@@ -1,0 +1,22 @@
+h1{
+    color: rgb(255, 208, 0);
+}
+
+h1 a{
+    color: red;
+}
+h2 a:hover{
+    color: greenyellow;
+}
+.cars{
+    border-radius: 30px;
+    
+}
+.mate-in-one{
+    border-radius: 30px;
+    box-shadow: 10px 10px greenyellow;
+}
+
+
+
+}
